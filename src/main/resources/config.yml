@@ -1,0 +1,11 @@
+weather:
+  thundering: false
+  storm: false
+  change: false
+
+time:
+  time: 6000
+
+do_daylight_cycle:
+  enabled: false
+
